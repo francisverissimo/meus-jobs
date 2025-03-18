@@ -1,30 +1,31 @@
-<div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
-  <img alt="project logo" src=".github/logo.png" width="80px">
+<div style="display: flex; align-items: center; justify-content: center; gap: 16px; margin-bottom: 16px;">
+  <img alt="project logo" src=".github/logo.png" width="80px;">
   <strong style="font-size: 32px;">MeusJOBS<strong>
 </div>
 
-## Screenshots
-<img alt="Project screenshot" src=".github/print-1.png" style="max-width: 1000px; margin-inline: auto;">
+<p align="center">
+  <img alt="Project screenshot" src=".github/print-1.png" align="center" style="max-width: 1024px; border-radius: 8px;">
+</p>
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img alt="Project screenshot" src=".github/print-2.png">
-  <img alt="Project screenshot" src=".github/print-3.png">
-  <img alt="Project screenshot" src=".github/print-4.png">
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; max-width: 1024px; margin-inline: auto;">
+  <img alt="Project screenshot" style="border-radius: 8px;" src=".github/print-2.png">
+  <img alt="Project screenshot" style="border-radius: 8px;" src=".github/print-3.png">
+  <img alt="Project screenshot" style="border-radius: 8px;" src=".github/print-4.png">
 </div>
 
-<h2>Site published <a href="http://meusjobs.vercel.app/">here</a></h2>
+## Site published <a href="http://meusjobs.vercel.app/">here</a>
 
 ## Technologies
 This project was developed with the following technologies:
 
-<ul>
-  <li>React</li>
-  <li>Firebase</li>
-  <li>TailwindCSS</li>
-  <li>PhosphorReact</li>
-  <li>Typescript</li>
-  <li>ViteJS</li>
-</ul>
+
+- React
+- Firebase
+- TailwindCSS
+- PhosphorReact
+- Typescript
+- ViteJS
+
 
 ## Project
 <p>
